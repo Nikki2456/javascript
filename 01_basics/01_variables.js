@@ -15,4 +15,4 @@ accountEmail = "nikki@gmail.com"
 accountPassword = "212121"
 accountCity = "telangana"
 console.log(accountId);
-console.table([accountEmail, accountPassword, accountCity])
+console.table([accountEmail, accountPassword, accountCity, accountState])
